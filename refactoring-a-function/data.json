@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Manchester City",
+        "won": 29,
+        "drawn": 6,
+        "lost": 3
+    },
+    {
+        "name": "Liverpool",
+        "won": 28,
+        "drawn": 8,
+        "lost": 2
+    },
+    {
+        "name": "Chelsea",
+        "won": 21,
+        "drawn": 11,
+        "lost": 6
+    },
+    {
+        "name": "Tottenham Hotspur",
+        "won": 22,
+        "drawn": 5,
+        "lost": 11
+    },
+    {
+        "name": "Arsenal",
+        "won": 22,
+        "drawn": 3,
+        "lost": 13
+    },
+    {
+        "name": "Manchester United",
+        "won": 16,
+        "drawn": 10,
+        "lost": 12
+    },
+    {
+        "name": "West Ham United",
+        "won": 16,
+        "drawn": 8,
+        "lost": 14
+    },
+    {
+        "name": "Leicester City",
+        "won": 14,
+        "drawn": 10,
+        "lost": 14
+    },
+    {
+        "name": "Brighton & Hove Albion",
+        "won": 12,
+        "drawn": 15,
+        "lost": 11
+    },
+    {
+        "name": "Wolverhampton Wanderers",
+        "won": 15,
+        "drawn": 6,
+        "lost": 17
+    },
+    {
+        "name": "Newcastle United",
+        "won": 13,
+        "drawn": 10,
+        "lost": 15
+    },
+    {
+        "name": "Crystal Palace",
+        "won": 11,
+        "drawn": 15,
+        "lost": 12
+    },
+    {
+        "name": "Brentford",
+        "won": 13,
+        "drawn": 7,
+        "lost": 18
+    },
+    {
+        "name": "Aston Villa",
+        "won": 13,
+        "drawn": 6,
+        "lost": 19
+    },
+    {
+        "name": "Southampton",
+        "won": 9,
+        "drawn": 13,
+        "lost": 16
+    },
+    {
+        "name": "Everton",
+        "won": 11,
+        "drawn": 6,
+        "lost": 21
+    },
+    {
+        "name": "Leeds United",
+        "won": 9,
+        "drawn": 11,
+        "lost": 18
+    },
+    {
+        "name": "Burnley",
+        "won": 7,
+        "drawn": 14,
+        "lost": 17
+    },
+    {
+        "name": "Watford",
+        "won": 6,
+        "drawn": 5,
+        "lost": 27
+    },
+    {
+        "name": "Norwich City",
+        "won": 5,
+        "drawn": 7,
+        "lost": 26
+    }
+]
