@@ -143,7 +143,7 @@ export function displayTableE(teams: Team[]) {
 }
 
 // If you wanted to impress slash annoy your colleagues, you can write it on one line
-export const displayTableF = (teams: Team[]) => 
+export const displayTable = (teams: Team[]) => 
     getSorted(teams)
     .map((x, i) => formatRow(i + 1, x.name, calculateScore(x)))
     .join('\n');
