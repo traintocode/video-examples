@@ -5,7 +5,7 @@ Object.freeze(a);
 console.log(a); // [1, 2, 3, 4, 5]
 
 // Perform the find
-let result = a.find(n => n == 3);
+let result = a.find(n => n === 3);
 
 console.log(result); // 3
 

@@ -5,7 +5,7 @@ Object.freeze(a);
 console.log(a); // [1, 2, 3, 4, 5]
 
 // Perform the reduce
-let result = a.reduce((prev, curr) => prev + curr, 0);
+let result = a.reduce((accumulator, item) => accumulator + item, 0);
 
 console.log(result); // 15
 
